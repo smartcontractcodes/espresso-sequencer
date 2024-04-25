@@ -1,7 +1,7 @@
 # Deploying Upgradeable Smart Contracts
 
 Upgradeable smart contracts are deployed with OpenZeppelin Defender to enable a deployment strategy that is more secure
-and also uses a multi-sig Safe wallet. When deploying using openzeppelin the `defender` profile in the `foundry.toml`
+and also uses a multi-sig Safe wallet. When deploying using OpenZeppelin the `defender` profile in the `foundry.toml`
 file is used.
 
 Note: One must set the environment variable `FOUNDRY_PROFILE` accordingly to use the appropriate profile in the
